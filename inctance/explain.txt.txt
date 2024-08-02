@@ -1,0 +1,1 @@
+In this folder will be stored the database of the app when first run it.
